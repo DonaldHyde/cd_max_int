@@ -1,0 +1,101 @@
+{
+    "meta": {
+        "name": "Tom's House",
+        "tolerance": 0.000027431999999999998
+    },
+    "referencePoint": {
+        "lat": [ 32, 58, 56.23],
+        "long": [ 80, 0, 26.8],
+        "alt": 30,
+        "bearing": {
+            "bearing": 0,
+            "type": "magnetic"
+        }
+    },
+    "points": [
+        {
+            "position": {
+                "deltaLong": -0.000123444,
+                "deltaLat": 0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 135,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North West Corner"
+            }
+        },
+        {
+            "position": {
+                "deltaLong": 0,
+                "deltaLat": 0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 180,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "Front Door"
+            }
+        },
+        {
+            "position": {
+                "deltaLong": 0.000123444,
+                "deltaLat": 0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 225,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North East Corner"
+            }
+        },
+        {
+            "position": {
+                "deltaLong": -0.000123444,
+                "deltaLat": -0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 45,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South West Corner"
+            }
+        },
+        {
+            "position": {
+                "deltaLong": 0,
+                "deltaLat": -0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 180,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "Back Door"
+            }
+        },
+        {
+            "position": {
+                "deltaLong": 0.000123444,
+                "deltaLat": -0.00008229599999999999,
+                "deltaAlt": -10,
+                "bearing": {
+                    "bearing": 315,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South East Corner"
+            }
+        }
+    ]
+}

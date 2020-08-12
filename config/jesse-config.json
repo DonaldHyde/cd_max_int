@@ -1,0 +1,115 @@
+{
+    "meta": {
+        "name": "Jesse's House",
+        "tolerance": 0.0000275
+    },
+    "referencePoint": {
+        "lat": 44.084503,
+        "long": -69.993345,
+        "alt": 120,
+        "bearing": {
+            "bearing": 0,
+            "type": "true"
+        }
+    },
+    "points": [
+        {
+            "position": {
+                "lat": 44.084554,
+                "long": -69.993226,
+                "alt": 110,
+                "bearing": {
+                    "bearing": 135,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North East Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084435,
+                "long": -69.993243,
+                "alt": 110,
+                "bearing": {
+                    "bearing": 180,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South East Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084460,
+                "long": -69.993539,
+                "alt": 110,
+                "bearing": {
+                    "bearing": 225,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South West Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084584,
+                "long": -69.993511,
+                "alt": 110,
+                "bearing": {
+                    "bearing": 45,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North West Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084585,
+                "long": -69.993357,
+                "alt": 110,
+                "bearing": {
+                    "bearing": 180,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "Front Porch"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084495,
+                "long": -69.993244,
+                "alt": 120,
+                "bearing": {
+                    "bearing": 315,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "East Porch Roof Ridge"
+            }
+        },
+        {
+            "position": {
+                "lat": 44.084515,
+                "long": -69.993475,
+                "alt": 120,
+                "bearing": {
+                    "bearing": 315,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "West Porch Roof Ridge"
+            }
+        }
+    ]
+}

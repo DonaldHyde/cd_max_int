@@ -1,0 +1,73 @@
+{
+    "meta": {
+        "name": "Tom's House",
+        "tolerance": 0.0000275
+    },
+    "referencePoint": {
+        "lat": 32.982284,
+        "long": -80.007448,
+        "alt": 90,
+        "bearing": {
+            "bearing": 0,
+            "type": "true"
+        }
+    },
+    "points": [
+        {
+            "position": {
+                "lat": 32.982340,
+                "long": -80.007379,
+                "alt": 90,
+                "bearing": {
+                    "bearing": 135,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North East Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 32.982189,
+                "long": -80.007430,
+                "alt": 90,
+                "bearing": {
+                    "bearing": 180,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South East Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 32.982210,
+                "long": -80.007520,
+                "alt": 90,
+                "bearing": {
+                    "bearing": 225,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "South West Corner"
+            }
+        },
+        {
+            "position": {
+                "lat": 32.982360,
+                "long": -80.007468,
+                "alt": 90,
+                "bearing": {
+                    "bearing": 45,
+                    "type": "magnetic"
+                }
+            },
+            "data": {
+                "name": "North West Corner"
+            }
+        }
+    ]
+}
